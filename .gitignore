@@ -1,0 +1,28 @@
+# entornos locales
+.env
+.env.*
+!.env.example
+# herramientas / IDE
+.agents/
+.aws/
+.codex/
+.idea/
+.vscode/
+# sistema
+.DS_Store
+Thumbs.db
+# TeX intermedios
+Latex/*.aux
+Latex/*.log
+Latex/*.out
+Latex/*.toc
+Latex/*.lof
+Latex/*.lot
+Latex/*.bbl
+Latex/*.blg
+Latex/*.fls
+Latex/*.fdb_latexmk
+Latex/*.synctex.gz
+
+# manuscrito de la tesis (no se publica)
+Latex/

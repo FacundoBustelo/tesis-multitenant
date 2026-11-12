@@ -1,0 +1,5 @@
+.git
+benchmarks/results
+src/.env*
+src/bootstrap/cache/*.php
+src/storage/**
